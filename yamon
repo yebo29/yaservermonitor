@@ -11,7 +11,7 @@
 #     @website https://github.com/yebo29/yaservermonitor
 #     @fork https://github.com/shevabam/ezservermonitor-sh
 #     @created March 18, 2021
-#     @version 2.4.2
+#     @version 2.4.3
 #
 # *********************************************************
  
@@ -61,7 +61,7 @@ THEME_TITLE=WHITE_ON_GREY
  
 # Constants
 YSM_NAME="Yet Another Server Monitor"
-YSM_VERSION="2.4.2"
+YSM_VERSION="2.4.3"
 YSM_AUTHOR="ShevAbam & Yebo29"
 YSM_CREATED="03-18-2021"
 YSM_URL="https://github.com/yebo29/yaservermonitor"
