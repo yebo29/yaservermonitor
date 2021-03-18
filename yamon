@@ -218,9 +218,9 @@ function memory()
     echo
     makeTitle "Memory"
     echo -e "${!THEME_TEXT}  RAM\t\t${WHITE}${MEM_FREE}MB free of ${MEM_TOTAL}MB"
-    echo -e "${!THEME_TEXT}  RAM\t\t${WHITE}Buffers: ${MEM_BUFFERS}MB"
-    echo -e "${!THEME_TEXT}  RAM\t\t${WHITE}Cache: ${MEM_CACHED}MB"
-    echo -e "${!THEME_TEXT}  RAM\t\t${WHITE}${MEM_PERCENT}% used"
+    echo -e "${!THEME_TEXT}  BUFFERS\t${WHITE}${MEM_BUFFERS}MB"
+    echo -e "${!THEME_TEXT}  CACHE\t\t${WHITE}${MEM_CACHED}MB"
+    echo -e "${!THEME_TEXT}  USAGE\t\t${WHITE}${MEM_PERCENT}% used"
 }
  
 # Function : network
