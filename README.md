@@ -1,4 +1,4 @@
-# eZ Server Monitor `sh
+# Yet Another Server Monitor
 
 Fork of https://github.com/shevabam/ezservermonitor-sh. Original README below.
 
